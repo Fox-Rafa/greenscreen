@@ -21,5 +21,5 @@ It can either recieve an image, video or webcam footage as input and outputs the
 
 
 
-# And this is the outpur image
+# And this is the output image
 ![Alt text](output.jpg?raw=true "Title")
